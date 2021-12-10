@@ -4,8 +4,8 @@
 
 	"features": {
 		"github-cli": "latest",
-		"codspaces/myfeatures/helloworld": {
-			"greeting": "Hey there"
+		"codspaces/mysecretfeatures/helloworld": {
+			"greeting": "(whispers) Hey there"
 		}
 	}
 }
